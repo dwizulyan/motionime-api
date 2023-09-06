@@ -11,13 +11,16 @@
       "genre": "Music",
       "episodes": [
         {
-          "episode0": "https://www.youtube.com/watch?v=_cUX8gjYC7w"
+          "title": "Prologue",
+          "link": "https://www.youtube.com/watch?v=_cUX8gjYC7w"
         },
         {
-          "episode1": "https://www.youtube.com/watch?v=z691Q5kfM74"
+          "title": "Episode 1",
+          "link": "https://www.youtube.com/watch?v=z691Q5kfM74"
         },
         {
-          "episode2": "https://www.youtube.com/watch?v=akCHSkkvAX0"
+          "title": "Episode 2",
+          "link": "https://www.youtube.com/watch?v=akCHSkkvAX0"
         }
       ]
     },
