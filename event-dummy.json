@@ -1,0 +1,125 @@
+{
+  "results": [
+    {
+      "id": "ccc0ea7d-4089-4f1b-bf99-3486cf968718",
+      "title": "Dummy Event",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+      "schedule": "Dummy Schedule",
+      "banner": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004139/motionime/event/dummy-banner-event-1_gmt61s.png",
+      "thumbnail": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004140/motionime/event/dummy-thumbnail-event_yqplre.png",
+      "trailer": "",
+      "genre": "Dummy",
+      "episodes": ""
+    },
+    {
+      "id": "99bc7da4-81e6-416d-8f46-7ae78503fdb4",
+      "title": "Dummy Event 1",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+      "schedule": "Dummy Schedule",
+      "banner": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004139/motionime/event/dummy-banner-event-1_gmt61s.png",
+      "thumbnail": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004140/motionime/event/dummy-thumbnail-event_yqplre.png",
+      "trailer": "",
+      "genre": "Dummy",
+      "episodes": ""
+    },
+    {
+      "id": "979318e5-47d7-4d51-8a07-1d9c8c72510c",
+      "title": "Dummy Event 2",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+      "schedule": "Dummy Schedule",
+      "banner": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004139/motionime/event/dummy-banner-event-1_gmt61s.png",
+      "thumbnail": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004140/motionime/event/dummy-thumbnail-event_yqplre.png",
+      "trailer": "",
+      "genre": "Dummy",
+      "episodes": ""
+    },
+    {
+      "id": "b798cf1f-2fdb-47a1-be71-3a16eeb32391",
+      "title": "Dummy Event 3",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+      "schedule": "Dummy Schedule",
+      "banner": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004139/motionime/event/dummy-banner-event-1_gmt61s.png",
+      "thumbnail": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004140/motionime/event/dummy-thumbnail-event_yqplre.png",
+      "trailer": "",
+      "genre": "Dummy",
+      "episodes": ""
+    },
+    {
+      "id": "5066cecc-e9f2-4215-90d6-21fc48603e5c",
+      "title": "Dummy Event 4",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+      "schedule": "Dummy Schedule",
+      "banner": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004139/motionime/event/dummy-banner-event-1_gmt61s.png",
+      "thumbnail": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004140/motionime/event/dummy-thumbnail-event_yqplre.png",
+      "trailer": "",
+      "genre": "Dummy",
+      "episodes": ""
+    },
+    {
+      "id": "2eaa8ca9-90b9-43f0-b57c-ae88c1d2036b",
+      "title": "Dummy Event 5",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+      "schedule": "Dummy Schedule",
+      "banner": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004139/motionime/event/dummy-banner-event-1_gmt61s.png",
+      "thumbnail": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004140/motionime/event/dummy-thumbnail-event_yqplre.png",
+      "trailer": "",
+      "genre": "Dummy",
+      "episodes": ""
+    },
+    {
+      "id": "55538d5b-c8ed-4ee3-9f05-3fd28c4f9224",
+      "title": "Dummy Event 6",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+      "schedule": "Dummy Schedule",
+      "banner": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004139/motionime/event/dummy-banner-event-1_gmt61s.png",
+      "thumbnail": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004140/motionime/event/dummy-thumbnail-event_yqplre.png",
+      "trailer": "",
+      "genre": "Dummy",
+      "episodes": ""
+    },
+    {
+      "id": "ae2130bc-88b8-4380-ad77-ec83a81b455f",
+      "title": "Dummy Event 7",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+      "schedule": "Dummy Schedule",
+      "banner": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004139/motionime/event/dummy-banner-event-1_gmt61s.png",
+      "thumbnail": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004140/motionime/event/dummy-thumbnail-event_yqplre.png",
+      "trailer": "",
+      "genre": "Dummy",
+      "episodes": ""
+    },
+    {
+      "id": "4e165b51-67ee-4d8c-a01d-bb8b3f17ab59",
+      "title": "Dummy Event 8",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+      "schedule": "Dummy Schedule",
+      "banner": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004139/motionime/event/dummy-banner-event-1_gmt61s.png",
+      "thumbnail": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004140/motionime/event/dummy-thumbnail-event_yqplre.png",
+      "trailer": "",
+      "genre": "Dummy",
+      "episodes": ""
+    },
+    {
+      "id": "6067ad93-3c1b-469f-a169-c7a7ebb6e888",
+      "title": "Dummy Event 9",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+      "schedule": "Dummy Schedule",
+      "banner": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004139/motionime/event/dummy-banner-event-1_gmt61s.png",
+      "thumbnail": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004140/motionime/event/dummy-thumbnail-event_yqplre.png",
+      "trailer": "",
+      "genre": "Dummy",
+      "episodes": ""
+    },
+    {
+      "id": "41268f72-5a33-4216-af29-877470395e0a",
+      "title": "Dummy Event 10",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+      "schedule": "Dummy Schedule",
+      "banner": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004139/motionime/event/dummy-banner-event-1_gmt61s.png",
+      "thumbnail": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004140/motionime/event/dummy-thumbnail-event_yqplre.png",
+      "trailer": "",
+      "genre": "Dummy",
+      "episodes": ""
+    }
+  ]
+}
