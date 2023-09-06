@@ -1,0 +1,22 @@
+{
+  "results": [
+    {
+      "id": "ef78b66b-1ca6-47a1-a8dd-5fa2118f65de",
+      "title": "Motion on Friday (MOF)",
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694000729/motionime/event/dummy-banner-event_kn2jyt.png",
+      "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut quam vitae ligula pharetra porttitor."
+    },
+    {
+      "id": "52515fe4-9a8c-41c8-99ce-515d97af0160",
+      "title": "Nobar One Piece (Anime)",
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694000729/motionime/event/dummy-banner-event_kn2jyt.png",
+      "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut quam vitae ligula pharetra porttitor."
+    },
+    {
+      "id": "ccc0ea7d-4089-4f1b-bf99-3486cf968718",
+      "title": "Dummy Event",
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694000729/motionime/event/dummy-banner-event_kn2jyt.png",
+      "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut quam vitae ligula pharetra porttitor."
+    }
+  ]
+}
