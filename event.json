@@ -9,11 +9,17 @@
       "thumbnail": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004140/motionime/event/dummy-thumbnail-event_yqplre.png",
       "trailer": "",
       "genre": "Music",
-      "episodes": {
-        "prologue": "https://www.youtube.com/watch?v=_cUX8gjYC7w",
-        "episode1": "https://www.youtube.com/watch?v=z691Q5kfM74",
-        "episode2": "https://www.youtube.com/watch?v=akCHSkkvAX0"
-      }
+      "episodes": [
+        {
+          "episode0": "https://www.youtube.com/watch?v=_cUX8gjYC7w"
+        },
+        {
+          "episode1": "https://www.youtube.com/watch?v=z691Q5kfM74"
+        },
+        {
+          "episode2": "https://www.youtube.com/watch?v=akCHSkkvAX0"
+        }
+      ]
     },
     {
       "id": "52515fe4-9a8c-41c8-99ce-515d97af0160",
