@@ -1,0 +1,85 @@
+{
+  "results": [
+    {
+      "id": "ef78b66b-1ca6-47a1-a8dd-5fa2118f65de",
+      "title": "Motion on Friday (MOF)",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut quam vitae ligula pharetra porttitor. Maecenas porttitor erat ultrices dictum molestie. Etiam interdum blandit pellentesque.",
+      "schedule": "Every Friday Night",
+      "banner": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004139/motionime/event/dummy-banner-event-1_gmt61s.png",
+      "thumbnail": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004140/motionime/event/dummy-thumbnail-event_yqplre.png",
+      "trailer": "",
+      "genre": "Music",
+      "episodes": {
+        "prologue": "https://www.youtube.com/watch?v=_cUX8gjYC7w",
+        "episode1": "https://www.youtube.com/watch?v=z691Q5kfM74",
+        "episode2": "https://www.youtube.com/watch?v=akCHSkkvAX0"
+      }
+    },
+    {
+      "id": "52515fe4-9a8c-41c8-99ce-515d97af0160",
+      "title": "Nobar One Piece (Anime)",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+      "schedule": "Every Sunday Morning",
+      "banner": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004139/motionime/event/dummy-banner-event-1_gmt61s.png",
+      "thumbnail": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004140/motionime/event/dummy-thumbnail-event_yqplre.png",
+      "trailer": "",
+      "genre": "Watch Party",
+      "episodes": ""
+    },
+    {
+      "id": "579c7ea0-c052-4c0f-bf01-8b40e2f82202",
+      "title": "Cosplay Competition",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+      "schedule": "Check in Discord Motion Ime",
+      "banner": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004139/motionime/event/dummy-banner-event-1_gmt61s.png",
+      "thumbnail": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004140/motionime/event/dummy-thumbnail-event_yqplre.png",
+      "trailer": "",
+      "genre": "Cosplay",
+      "episodes": ""
+    },
+    {
+      "id": "1b587bbf-9edb-4488-91ef-1f519e9381a9",
+      "title": "Basket Ball Meet Up",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+      "schedule": "Sabtu, 9 September 2023",
+      "banner": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004139/motionime/event/dummy-banner-event-1_gmt61s.png",
+      "thumbnail": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004140/motionime/event/dummy-thumbnail-event_yqplre.png",
+      "trailer": "",
+      "genre": "Sport",
+      "episodes": ""
+    },
+    {
+      "id": "154a9335-9648-41e7-b00b-4606be963117",
+      "title": "Music / Lofi Radio 24/7",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+      "schedule": "Everyday",
+      "banner": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004139/motionime/event/dummy-banner-event-1_gmt61s.png",
+      "thumbnail": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004140/motionime/event/dummy-thumbnail-event_yqplre.png",
+      "trailer": "",
+      "genre": "Music",
+      "episodes": ""
+    },
+    {
+      "id": "2a351661-9957-43d6-9085-823a5fbcc673",
+      "title": "Radio on Motion (ROM)",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+      "schedule": "Coming Soon",
+      "banner": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004139/motionime/event/dummy-banner-event-1_gmt61s.png",
+      "thumbnail": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004140/motionime/event/dummy-thumbnail-event_yqplre.png",
+      "trailer": "",
+      "genre": "Entertainment",
+      "episodes": ""
+    },
+    {
+      "id": "ccc0ea7d-4089-4f1b-bf99-3486cf968718",
+      "title": "Dummy Event",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+      "schedule": "Dummy Schedule",
+      "banner": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004139/motionime/event/dummy-banner-event-1_gmt61s.png",
+      "thumbnail": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694004140/motionime/event/dummy-thumbnail-event_yqplre.png",
+      "trailer": "",
+      "genre": "Dummy",
+      "episodes": ""
+    }
+  ]
+}
