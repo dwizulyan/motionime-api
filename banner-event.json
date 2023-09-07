@@ -3,20 +3,20 @@
     {
       "id": "ef78b66b-1ca6-47a1-a8dd-5fa2118f65de",
       "title": "Motion on Friday (MOF)",
-      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694000729/motionime/event/dummy-banner-event_kn2jyt.png",
-      "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut quam vitae ligula pharetra porttitor."
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694085376/motionime/event/banner/mof-banner_r0vksd.png",
+      "overview": "MOF is a stage for talent of all kinds. Are you a singer? A musical performer? MOF is a place where you can showcase your skills to a passionate audience from all corners of the world."
     },
     {
       "id": "52515fe4-9a8c-41c8-99ce-515d97af0160",
       "title": "Nobar One Piece (Anime)",
-      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694000729/motionime/event/dummy-banner-event_kn2jyt.png",
-      "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut quam vitae ligula pharetra porttitor."
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694085376/motionime/event/banner/op-banner_jy8lbg.png",
+      "overview": "Are you ready to sail the high seas with Luffy and the Straw Hat pirate crew in the incredible world of One Piece? Every Sunday morning, Motion Ime brings you the ultimate viewing experience with the latest One Piece episode like you've never experienced before."
     },
     {
       "id": "ccc0ea7d-4089-4f1b-bf99-3486cf968718",
       "title": "Dummy Event",
-      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694000729/motionime/event/dummy-banner-event_kn2jyt.png",
-      "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut quam vitae ligula pharetra porttitor."
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694085377/motionime/event/banner/dummy-banner-event_tyrigg.png",
+      "overview": "This is a dummy event, for testing to make the view event look beautiful. This is a dummy event, for testing to make the view event look beautiful."
     }
   ]
 }
