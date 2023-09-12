@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "link": "",
+      "title": "Dummy Banner 1",
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694519844/motionime/catalog/banner/dummy-banner-catalog-1_qva2tm.png"
+    },
+    {
+      "link": "",
+      "title": "Dummy Banner 2",
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694519842/motionime/catalog/banner/dummy-banner-catalog-2_kyahyz.png"
+    },
+    {
+      "link": "",
+      "title": "Dummy Banner 3",
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694519840/motionime/catalog/banner/dummy-banner-catalog-3_slpybm.png"
+    }
+  ]
+}
