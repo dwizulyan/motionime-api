@@ -1,8 +1,9 @@
 {
   "results": {
+    "number": 500000,
     "total": "500",
     "format": "ribuan",
-    "byline": "500k+",
+    "byline": "500K+",
     "updatedAt": "2023-09-09"
   }
 }
