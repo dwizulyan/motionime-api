@@ -25,19 +25,33 @@
       "episodes": [
         {
           "title": "Prologue",
-          "link": "https://www.youtube.com/watch?v=_cUX8gjYC7w"
+          "link": "https://www.youtube.com/watch?v=_cUX8gjYC7w",
+          "time": "20 Agustus, 2023"
         },
         {
           "title": "Episode 1",
-          "link": "https://www.youtube.com/watch?v=z691Q5kfM74"
+          "link": "https://www.youtube.com/watch?v=z691Q5kfM74",
+          "time": "26 Agustus, 2023"
         },
         {
           "title": "Episode 2",
-          "link": "https://www.youtube.com/watch?v=akCHSkkvAX0"
+          "link": "https://www.youtube.com/watch?v=akCHSkkvAX0",
+          "time": "1 September, 2023"
         },
         {
           "title": "Episode 3",
-          "link": " https://www.youtube.com/watch?v=s-xm4L8zdHw"
+          "link": "https://www.youtube.com/watch?v=s-xm4L8zdHw",
+          "time": "8 September, 2023"
+        },
+        {
+          "title": "Episode 4",
+          "link": "",
+          "time": "15 September, 2023"
+        },
+        {
+          "title": "Episode 5",
+          "link": "https://www.youtube.com/watch?v=wPYoif22Ij4",
+          "time": "29 September, 2023"
         }
       ],
       "type": "play",
