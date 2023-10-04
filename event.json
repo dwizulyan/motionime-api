@@ -1,6 +1,19 @@
 {
   "results": [
     {
+      "id": "bf749984-5edf-447a-a758-99ac195c1bbb",
+      "title": "Motion Ime Fest",
+      "desc": "Motion Ime Fest adalah Festival Persembahan Motion Ime 500k members! Yang nantinya akan diisi dengan booth - booth komunitas yang seru, dan pastinya akan ada performance mulai dari Coswalk competition, performance artist, dan lain- lain!",
+      "schedule": "Desember, 2023",
+      "banner": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1696424908/motionime/event/banner/mif-banner_qoq0yo.png",
+      "thumbnail": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1696430120/motionime/event/thumbnail/mif_mlusdb.png",
+      "trailer": "",
+      "genre": "Festival",
+      "episodes": "",
+      "type": "off",
+      "status": false
+    },
+    {
       "id": "ef78b66b-1ca6-47a1-a8dd-5fa2118f65de",
       "title": "Motion on Friday (MOF)",
       "desc": "MOF is a stage for talent of all kinds. Are you a singer? A musical performer? MOF is a place where you can showcase your skills to a passionate audience from all corners of the world.",
@@ -27,7 +40,7 @@
           "link": " https://www.youtube.com/watch?v=s-xm4L8zdHw"
         }
       ],
-      "type": "serial",
+      "type": "play",
       "status": false
     },
     {
@@ -40,7 +53,7 @@
       "trailer": "",
       "genre": "Watch Party",
       "episodes": "",
-      "type": "only",
+      "type": "play",
       "status": false
     },
     {
@@ -53,7 +66,7 @@
       "trailer": "",
       "genre": "Cosplay",
       "episodes": "",
-      "type": "one",
+      "type": "off",
       "status": false
     },
     {
@@ -66,7 +79,7 @@
       "trailer": "",
       "genre": "Sport",
       "episodes": "",
-      "type": "one",
+      "type": "off",
       "status": false
     },
     {
@@ -79,20 +92,7 @@
       "trailer": "",
       "genre": "Music",
       "episodes": "",
-      "type": "one",
-      "status": false
-    },
-    {
-      "id": "ccc0ea7d-4089-4f1b-bf99-3486cf968718",
-      "title": "Dummy Event",
-      "desc": "This is a dummy event, for testing to make the view event look beautiful. This is a dummy event, for testing to make the view event look beautiful.",
-      "schedule": "Dummy Schedule",
-      "banner": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694095647/motionime/event/banner/dummy-banner-event-1_jh0dyg.png",
-      "thumbnail": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694095527/motionime/event/thumbnail/dummy-thumbnail-event_jzosnb.png",
-      "trailer": "",
-      "genre": "Dummy Genre",
-      "episodes": "",
-      "type": "one",
+      "type": "play",
       "status": false
     }
   ]
