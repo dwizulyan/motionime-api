@@ -1,0 +1,70 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Category {
+  id     Int      @id @default(autoincrement())
+  name   String?
+  merch  Merch[]
+  banner Banner[]
+}
+
+model Merch {
+  id         Int      @id @default(autoincrement())
+  title      String?
+  link       String?
+  image      String?
+  price      Int?
+  category   Category @relation(fields: [categoryId], references: [id])
+  categoryId Int
+}
+
+model Banner {
+  id         Int      @id @default(autoincrement())
+  title      String?
+  link       String?
+  image      String?
+  category   Category @relation(fields: [categoryId], references: [id])
+  categoryId Int
+}
+
+model Event {
+  id          Int       @id @default(autoincrement())
+  title       String?
+  description String?
+  schedule    String?
+  banner      String?
+  thumbnail   String?
+  trailer     String?
+  genre       Genre     @relation(fields: [genreId], references: [id])
+  genreId     Int
+  episodes    Episode[]
+  type        String?
+  status      Boolean   @default(false)
+}
+
+model Episode {
+  id      Int       @id @default(autoincrement())
+  title   String?
+  link    String?
+  release DateTime?
+  event   Event     @relation(fields: [eventId], references: [id])
+  eventId Int
+}
+
+model Genre {
+  id     Int     @id @default(autoincrement())
+  name   String?
+  events Event[]
+}
