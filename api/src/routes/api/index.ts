@@ -40,4 +40,19 @@ api.get("/banner", (c: Context) => {
   });
 });
 
+api.get("/event", (c: Context) => {
+  const { category } = c.req.query();
+  let message = "Getting all event";
+
+  if (category) {
+    message = `Getting event with ${category} category`;
+  }
+
+  return c.json({
+    success: true,
+    message: message,
+    data: {},
+  });
+});
+
 export default api; // export api variable
