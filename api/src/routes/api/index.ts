@@ -12,11 +12,25 @@ api.get("/greetings", (c: Context) => {
 
 api.get("/merch", (c: Context) => {
   const { category } = c.req.query();
-  let message: string;
+  let message = "Getting all merch";
+
   if (category) {
     message = `Getting merch with ${category} category`;
-  } else {
-    message = "Getting all merch";
+  }
+
+  return c.json({
+    success: true,
+    message: message,
+    data: {},
+  });
+});
+
+api.get("/banner", (c: Context) => {
+  const { category } = c.req.query();
+  let message = "Getting all banner";
+
+  if (category) {
+    message = `Getting banner with ${category} category`;
   }
 
   return c.json({
