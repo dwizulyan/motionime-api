@@ -3,6 +3,7 @@ import api from "./routes/api/";
 
 const app = new Hono(); // init hono
 
-app.route("/api", api); // set the route for /api to be handled by the /api router
-
+app.route("/api/merch", api.merch);
+app.route("/api/banner",api.banner);
+app.route("/api/event",api.event);
 export default app; // export the app
