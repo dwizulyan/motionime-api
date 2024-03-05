@@ -1,0 +1,15 @@
+get http://localhost:3000/api/merch
+###
+post http://localhost:3000/api/merch/create
+Content-Type: application/json
+
+{
+    "name":"Jeki",
+    "price":15000
+}
+
+###
+get http://localhost:3000/api/banner
+
+###
+get http://localhost:3000/api/event

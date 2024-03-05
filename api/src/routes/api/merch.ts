@@ -1,6 +1,8 @@
 import {Hono,Context} from "hono";
+import {PrismaClient} from "@prisma/client";
 
 const merch = new Hono();
+const prisma = new PrismaClient();
 
 merch.get("/",(c:Context)=>{
     return c.json({
@@ -9,5 +11,4 @@ merch.get("/",(c:Context)=>{
         data : {},
     })
 })
-
 export default merch;
