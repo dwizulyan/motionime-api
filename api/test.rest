@@ -2,10 +2,14 @@ get http://localhost:3000/api/merch
 ###
 post http://localhost:3000/api/merch/create
 Content-Type: application/json
+Authorization: Bearer jekibahumu
 
 {
-    "name":"Jeki",
-    "price":15000
+    "title":"Jeki",
+    "link":"none",
+    "image":"none",
+    "price":15000,
+    "categoryId":1
 }
 
 ###
